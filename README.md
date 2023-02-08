@@ -7,6 +7,16 @@
 
 ## Install Rust on Terminal
 Type: `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+
 To configure your current shell, run: `source "$HOME/.cargo/env"`
 
-## 
+Create a New project folder for this project and put `main.rs` and `Cargo.toml` under the same folder.
+
+## Create a Google News API
+<img width="669" alt="image" src="https://user-images.githubusercontent.com/112585430/217635398-b4b68eca-ccca-44e0-8414-392a1c555c7c.png">
+
+And put it in the section of code
+
+<img width="790" alt="image" src="https://user-images.githubusercontent.com/112585430/217635658-a32fc57d-5516-4c9c-b1d8-95047b064b2e.png">
+
+Then we can run our program by `cargo run news <query>`
