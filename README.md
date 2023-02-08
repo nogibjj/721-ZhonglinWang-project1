@@ -19,4 +19,5 @@ And put it in the section of code
 
 <img width="790" alt="image" src="https://user-images.githubusercontent.com/112585430/217635658-a32fc57d-5516-4c9c-b1d8-95047b064b2e.png">
 
-Then we can run our program by `cargo run news <query>`
+Then we can run our program by running `cargo run news <query>` and see the result.
+<img width="797" alt="image" src="https://user-images.githubusercontent.com/112585430/217636116-bdc4f07d-1a4a-4bd9-b956-1c25c910b891.png">
